@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my academic homepage!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My name is Min-Jie Luo. My research interests include Special Functions and Fractional Calculus.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my Ph.D. in Pure Mathematics from the Department of Mathematics, East China Normal University, in 2017. From September 2017 to September 2018, I conducted postdoctoral research at City University of Hong Kong. Since September 2018, I have been with the School of Mathematics and Statistics, Donghua University.
+
+My recent research mainly focuses on two areas: the properties of higher-dimensional special functions, including multivariate hypergeometric functions $F_K$ and multivariate Laguerre polynomials; and the explicit characterization of generalized fractional integral operators whose kernels involve special functions such as the $G$-function, $H$-function, and $I$-function.
+
+For more information about my academic work, please visit my [Google Scholar](https://scholar.google.com/citations?user=LjjBNLYAAAAJ&hl=zh-CN) and [ResearchGate profiles](https://www.researchgate.net/profile/Min-Jie-Luo?ev=hdr_xprf).
