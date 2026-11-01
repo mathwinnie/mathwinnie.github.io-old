@@ -23,18 +23,14 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: East China Normal University
+        location: Shanghai, China
+        url: http://english.ecnu.edu.cn/
+        area: Special functions and number theory
+        studyType: Ph.D.
+        start_date: 2014
+        end_date: 2017
+        adviser: Zhi-Guo Liu
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
