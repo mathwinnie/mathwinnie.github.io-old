@@ -26,11 +26,15 @@ cv:
       - institution: East China Normal University
         location: Shanghai, China
         url: http://english.ecnu.edu.cn/
-        area: Special functions and number theory
+        area: Pure Mathematics
         studyType: Ph.D.
         start_date: 2014
         end_date: 2017
-        adviser: Zhi-Guo Liu
+        highlights:
+          - Thesis Topic: Hypergeometric Functions and Fractional Integral Operators 
+          - Adviser: Prof. Zhi-Guo Liu
+          - Area of Study: Special functions and number theory
+          
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
