@@ -1,10 +1,10 @@
 cv:
   name: Min-Jie Luo
-  label: Scientist
+  label: Mathematician
   email: mathwinnie@live.com
   location: Shanghai, China
   image: ""
-  summary: 
+#  summary: 
 
 #  social_networks:
 #    - network: X
@@ -18,7 +18,7 @@ cv:
    street: Office 435, College Building No. 2, 2999 Renmin North Road
    city: Songjiang District, Shanghai
    region: Shanghai
-   postalCode: "201620"
+   postalCode: 201620
    countryCode: CN
 
   sections:
