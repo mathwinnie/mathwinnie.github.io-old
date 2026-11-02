@@ -5,7 +5,7 @@ cv:
   location: Shanghai, China
   image: ""
 #  summary: 
-
+#
 #  social_networks:
 #    - network: X
 #      username: AlbertEinstein
@@ -13,13 +13,13 @@ cv:
 #      username: example
 #    - network: LinkedIn
 #      username: example
-
- address:
-   street: Office 435, College Building No. 2, 2999 Renmin North Road
-   city: Songjiang District, Shanghai
-   region: Shanghai
-   postalCode: 201620
-   countryCode: CN
+#
+# address:
+#   street: Office 435, College Building No. 2, 2999 Renmin North Road
+#   city: Songjiang District, Shanghai
+#   region: Shanghai
+#   postalCode: 201620
+#   countryCode: CN
 
   sections:
     Education:
@@ -102,7 +102,7 @@ cv:
 #        highlights:
 #          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
 #          - "Men of the year 2014 by Time magazine"
-
+#
 #    Awards:
 #      - title: Nobel Prize in Physics
 #        authors:
@@ -111,7 +111,7 @@ cv:
 #        awarder: Royal Swedish Academy of Sciences
 #        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
 #        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
+#
 #      - title: Max Planck Medal
 #        authors:
 #          - "German Physical Society"
@@ -144,11 +144,11 @@ cv:
         url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+#    Skills:
+#      - name: Physics
+#        level: Master
+#        icon: fa-solid fa-hashtag
+#        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
       - name: Chinese
@@ -157,41 +157,41 @@ cv:
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
+#    Interests:
+#      - name: Physics
+#        icon: fa-solid fa-tag
+#        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+#
 #    Certificates:
 #      - name: Machine Learning
 #        date: 2018-01-01
 #        issuer: Stanford University
 #        icon: fa-solid fa-location-dot
-
+#
 #      - name: Quantum Computing
 #        date: 2018-01-01
 #        issuer: Stanford University
 #        icon: fa-solid fa-tag
-
+#
 #      - name: Quantum Information
 #        date: 2018-01-01
 #        issuer: Stanford University
 #        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
+#
+#    Projects:
+#      - name: Quantum Computing
+#        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+#        highlights:
+#          - Quantum Teleportation
+#          - Quantum Cryptography
+#        start_date: 2018-01-01
+#        end_date: 2018-01-01
+#
 #    References:
 #      - name: Professor John Doe
 #        icon: fa-solid fa-laptop
 #        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
+#
 #      - name: Professor Jane Smith
 #        icon: fa-solid fa-thumbtack
 #        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
