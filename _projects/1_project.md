@@ -4,7 +4,7 @@ title: $q$-series expansions for analytic functions in several variables and app
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: Research
+category: work
 related_publications: 
 ---
 
