@@ -33,56 +33,68 @@ cv:
         highlights:
           - "Thesis Topic: Hypergeometric Functions and Fractional Integral Operators" 
           - "Adviser: Prof. Zhi-Guo Liu"
-          - "Area of Study: Special functions and number theory"
+          - "Area of Study: Special Functions and Number Theory"
           
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Donghua University
+        location: Shanghai, China
+        url: https://english.dhu.edu.cn/
+        area: Pure Mathematics
+        studyType: M.S.
+        start_date: 2011
+        end_date: 2014
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis Topic: A Class of Extended Hypergeometric Functions and Their Applications"
+          - "Adviser: Prof. Qin Wang"
+          - "Area of Study: Special Functions"
+
+      - institution: Donghua University
+        location: Shanghai, China
+        url: https://english.dhu.edu.cn/
+        area: Mathematics
+        studyType: B.S.
+        start_date: 2007
+        end_date: 2011
+        highlights:
+          - "Thesis Topic: Selberg Integral of Matrix Arguments"
+          - "Adviser: Prof. Qin Wang"
+          - "Area of Study: Special Functions"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Donghua University
+        position: Associated Professor
+        location: Shanghai, China
+        start_date: 2023
+        end_date: "present"
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+          - "Undergraduate Courses: Linear Algebra, Mathematical Analysis II, and Mathematical Analysis III"
+          - "Graduate Courses: Functional Differential Equations"
+          - "CMC Training"
+    
+      - company: Donghua University
+        position: Assistant Professor
+        location: Shanghai, China
+        start_date: 2018
+        end_date: 2023
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Undergraduate Courses: Linear Algebra, Calculus of One Variable B, Mathematics I, Mathematics II, and Mathematical Analysis I"
+          - "Graduate Courses: Functional Differential Equations"
+          
+      - company: City University of Hong Kong
+        position: Postdoctoral Fellow
+        location: Hong Kong, China
+        start_date: 2017
+        end_date: 2018
+        summary: 
+        highlights:
+          - "Research results: Asymptotic formulas for the associated Pollaczek polynomials"
+          - "Supervisor: Prof. Roderick S. C. Wong"
+          - "Area of Study: Asymptotic Analysis"
+          
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      
 
     Volunteer:
       - company: People's Climate March
